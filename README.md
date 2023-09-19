@@ -1,4 +1,4 @@
-# WeeChat official scripts
+# In Code We Trust
 
 [![CI Status](https://github.com/weechat/scripts/workflows/CI/badge.svg)](https://github.com/weechat/scripts/actions?query=workflow%3A%22CI%22)
 
